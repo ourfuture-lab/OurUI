@@ -1,0 +1,19 @@
+{
+  "name": "ourui",
+  "version": "1.0.0",
+  "description": "通用样式库",
+  "main": "fis-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gzgqq/OurUI.git"
+  },
+  "author": "gzgqq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gzgqq/OurUI/issues"
+  },
+  "homepage": "https://github.com/gzgqq/OurUI#readme"
+}
